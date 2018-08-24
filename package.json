@@ -13,7 +13,7 @@
     "@types/fs-extra": "^5.0.4",
     "@types/node": "^10.7.1",
     "@types/pngjs": "^3.3.2",
-    "husky": "^0.14.3",
+    "husky": "^1.0.0-rc.13",
     "lint-staged": "^7.2.2",
     "prettier": "^1.14.2",
     "ts-node": "^7.0.1",
